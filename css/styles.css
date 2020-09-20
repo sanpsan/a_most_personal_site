@@ -1,0 +1,15 @@
+body {
+  background-color: #a2d5f2;
+}
+hr {
+  border-color: #40a8c4;
+  border-style: none;
+  border-top-style: double;
+  border-top-width: 4px;
+  width: 80%;
+}
+h1, h3 {
+  color: #ffc93c;
+  letter-spacing: 3px;
+  text-shadow: 1px 1px #07689f;
+}
