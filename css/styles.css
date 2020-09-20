@@ -13,3 +13,6 @@ h1, h3 {
   letter-spacing: 3px;
   text-shadow: 1px 1px #07689f;
 }
+.text-box {
+  width: 10rem;
+}
